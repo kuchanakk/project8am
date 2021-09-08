@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="146055" started-at="2021-08-30T03:22:02Z" finished-at="2021-08-30T03:24:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="146055" started-at="2021-08-30T03:22:02Z" finished-at="2021-08-30T03:24:28Z">
+      <class name="pack1.DDTFWtest">
+        <test-method status="PASS" signature="extentsetup()[pri:0, instance:pack1.DDTFWtest@204f30ec]" name="extentsetup" is-config="true" duration-ms="825" started-at="2021-08-30T03:22:02Z" finished-at="2021-08-30T03:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentsetup -->
+        <test-method status="PASS" signature="Ddtest()[pri:0, instance:pack1.DDTFWtest@204f30ec]" name="Ddtest" is-config="true" duration-ms="48705" started-at="2021-08-30T03:22:03Z" finished-at="2021-08-30T03:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ddtest -->
+        <test-method status="PASS" signature="laptest()[pri:0, instance:pack1.DDTFWtest@204f30ec]" name="laptest" duration-ms="2943" started-at="2021-08-30T03:22:52Z" finished-at="2021-08-30T03:22:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laptest -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:pack1.DDTFWtest@204f30ec]" name="closebrowser" is-config="true" duration-ms="3530" started-at="2021-08-30T03:22:55Z" finished-at="2021-08-30T03:22:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="Ddtest()[pri:0, instance:pack1.DDTFWtest@204f30ec]" name="Ddtest" is-config="true" duration-ms="45654" started-at="2021-08-30T03:22:58Z" finished-at="2021-08-30T03:23:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ddtest -->
+        <test-method status="PASS" signature="spktest()[pri:0, instance:pack1.DDTFWtest@204f30ec]" name="spktest" duration-ms="2937" started-at="2021-08-30T03:23:44Z" finished-at="2021-08-30T03:23:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spktest -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:pack1.DDTFWtest@204f30ec]" name="closebrowser" is-config="true" duration-ms="2392" started-at="2021-08-30T03:23:47Z" finished-at="2021-08-30T03:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="Ddtest()[pri:0, instance:pack1.DDTFWtest@204f30ec]" name="Ddtest" is-config="true" duration-ms="33947" started-at="2021-08-30T03:23:49Z" finished-at="2021-08-30T03:24:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ddtest -->
+        <test-method status="PASS" signature="tabtest()[pri:0, instance:pack1.DDTFWtest@204f30ec]" name="tabtest" duration-ms="2252" started-at="2021-08-30T03:24:23Z" finished-at="2021-08-30T03:24:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tabtest -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:pack1.DDTFWtest@204f30ec]" name="closebrowser" is-config="true" duration-ms="2820" started-at="2021-08-30T03:24:25Z" finished-at="2021-08-30T03:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="testend()[pri:0, instance:pack1.DDTFWtest@204f30ec]" name="testend" is-config="true" duration-ms="1" started-at="2021-08-30T03:24:28Z" finished-at="2021-08-30T03:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testend -->
+      </class> <!-- pack1.DDTFWtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
